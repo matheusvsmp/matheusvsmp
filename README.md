@@ -76,6 +76,6 @@ Liderei o desenvolvimento de sistemas complexos de forma autônoma, incluindo um
 
 ### ⭐ GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusvsm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusvsmp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvsm&layout=compact&langs_count=7&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheusvsmp&layout=compact&langs_count=7&theme=dracula)
