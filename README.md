@@ -73,9 +73,13 @@ Liderei o desenvolvimento de sistemas complexos de forma autônoma, incluindo um
 </table>
 
 ---
-### Certificações
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8dbaf80-a959-403f-8650-69028862c049" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+### 🏅 Certificações
 
+<a href="https://www.credly.com/badges/f8dbaf80-a959-403f-8650-69028862c049" target="_blank">
+  <img src="https://img.shields.io/badge/AWS-Certified_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
+</a>
+
+---
 ### ⭐ GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=matheusvsmp&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
