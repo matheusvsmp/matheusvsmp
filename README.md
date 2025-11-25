@@ -73,6 +73,8 @@ Liderei o desenvolvimento de sistemas complexos de forma autônoma, incluindo um
 </table>
 
 ---
+### Certificações
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f8dbaf80-a959-403f-8650-69028862c049" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ### ⭐ GitHub Stats
 
