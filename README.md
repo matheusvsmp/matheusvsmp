@@ -75,8 +75,9 @@ Liderei o desenvolvimento de sistemas complexos de forma autônoma, incluindo um
 ---
 ### 🏅 Certificações
 
-<a href="https://www.credly.com/badges/f8dbaf80-a959-403f-8650-69028862c049" target="_blank">
-  <img src="https://img.shields.io/badge/AWS-Certified_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Certified"/>
+<a href="[https://www.credly.com/badges/f8dbaf80-a959-403f-8650-69028862c049](https://www.credly.com/badges/f8dbaf80-a959-403f-8650-69028862c049/public_url)" target="_blank">
+  
+  <img src="https://images.credly.com/size/110x110/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified"/>
 </a>
 
 ---
