@@ -25,6 +25,7 @@ AWS · Azure · PostgreSQL · Vector DBs · Docker · Terraform
 **Certifications**
 
 - AWS Certified · [Credly](https://www.credly.com/badges/f8dbaf80-a959-403f-8650-69028862c049/public_url)
+- Azure Certified · [Microsoft Learn]([https://www.credly.com/badges/f8dbaf80-a959-403f-8650-69028862c049/public_url](https://learn.microsoft.com/api/credentials/share/pt-br/MatheusMoura-2642/E13550F17F70EF99?sharingId=DDA2E1D4C35805EF))
 
 **Education**
 
